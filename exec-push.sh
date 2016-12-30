@@ -1,2 +1,2 @@
 #!/bin/bash
-git push -f nblog -all
+git push -f nblog --all
